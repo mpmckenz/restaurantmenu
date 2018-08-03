@@ -32,7 +32,8 @@ h2 {margin: 0; font-variant: small-caps; color: #6d4c41;}
 dt {
     font-weight: bold; font-size:  20px;}
 
-dd {margin: 0 0 12px 0; display: flex;}
+dd {
+    margin: 0 0 12px 0; display: flex;}
 
 .details {order: 1;}
 
